@@ -1,6 +1,8 @@
+
 import Header from './components/Cabecalho'
-import Hero from './components/Hero'
+import { Hero } from './components/Hero/heroStyled'
 import ListaVagas from './containers/ListaVagas'
+
 
 import './global.css'
 
